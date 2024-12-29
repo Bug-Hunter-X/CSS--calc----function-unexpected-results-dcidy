@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with CSS's `calc()` function. The `bug.css` file showcases a scenario where inconsistent units or invalid calculations lead to unexpected results.  The `bugSolution.css` file offers a solution by ensuring consistent units and handling potential errors.
